@@ -1,0 +1,28 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'com.hgtv.clean'
+    compileSdk 36
+    defaultConfig {
+        applicationId 'com.hgtv.clean'
+        minSdk 23
+        targetSdk 36
+        versionCode 5
+        versionName '0.3.0'
+        testInstrumentationRunner 'com.hgtv.clean.ProtocolChecks'
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    buildTypes { release { minifyEnabled false } }
+    sourceSets {
+        androidTest {
+            java.srcDirs += ['../scripts/tests', '../tests']
+            java.exclude '**/ProtocolSignerChecks.java', '**/MediaNetworkCheck.java'
+        }
+    }
+}
+dependencies {
+    implementation 'androidx.media3:media3-exoplayer:1.8.0'
+    implementation 'androidx.media3:media3-ui:1.8.0'
+}

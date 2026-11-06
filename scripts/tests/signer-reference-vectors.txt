@@ -1,0 +1,420 @@
+[case=0]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_0&aid=8662&device_id=0&ts=1700000000&_rticket=1700000000001
+User-Agent=com.phoenix.read/71332 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000000001
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000000
+x-ladon=ZVPxAA==
+x-argus=APFTZQ==
+x-gorgon=840400004001fcdd1fee4f3b1b24deec244161d94d4bccb2b08d
+x-helios=AAAAIBzXesFu2Rm8j2zCMSssQwKlxm1sHIvXbZZeRRrXLc/G
+x-medusa=A/FTZfcZDJ/XJo9e1tubFVc+Mn0AAAABKxVABBDIAa6GOCXcd8/iOungE/s9D1U7klVQDHAbWyxAe6IUBbi4iKqTnn75+edU9qqEQtEMtYwcKEAhTiR30yDvN2lCLlQzf7su8Kek7Zty0hZIVOuCzTzhZU68t/g+BHnWsxzbCTeS+cgdNbuSAIelTxnvVhDYobLoCCHMu8YU5ectUvUVhTAA3nuTSWUz5MGjGGaH4v5D6+i4rQwqaU6KX7xADvNBJEfwGFIyBoyt6+kCF9FQAA/LpPZI0Pc9c0YaYt643SfVV9mPgLuX4V63ySLA5Ip5LkRqq4qTi3I4ndoxMj1rzR5AkSxnY1T7QogPuXERi+XV1Mcxcd6asoobX8XBquPawzWePclgGzibd+7yiXR/YJ8TfNl7iiUSBnEznFpdffR36ZYo2P7JWkgEhPdpA0aPEafI52SeSRRLAGE08jXegf/OOgdQAqPzM1RO3k8szSzGknmFAXVDaZCZKZxFP3sHXoqnIG4La4J4XnTJyjwcpqJPM2LS/ougAAHwYsxG9IEIXIQyvj5IPNqEg4zN4LOBMKD/ReqMdGsRRnVPnCDc/FAviMLGN9gHO06WemaZZddAILqDIUKGaZLYp2sHkzrb+wleze9SXq9scQQ/EgfocyjZ7wu4bBDpX/wZGsz2nqw9tN3l76sADJgg0fgdt2n0+r0h+jCQ4XlxHyT9Nuc4ktENDOCj44OTE4R9UFKMiu1jDXWQvAsN56hCSssIr4bHuHDQmhTyiEcZTocDwcI9gAXotBnSIsldEpU4vRXa3gNK4YgyiJ39pkPU07HAWI0L6/Rz7nWG6ZoXcTJh2XOPze4+cL3gQuccoloM5beIkGlFOOJEp4sZYvLk07Gb0qQWaS0Lldzqzo2qywJ2+7kPfBNy+PoHYG0350dOdp09jkJuaSJrWTypZaFDCeLITiAI/1////9f/r8AoA==
+x-tt-dt=
+Content-Type=application/json; charset=UTF-8
+x-vc-bdturing-sdk-version=3.7.2.cn
+x-ss-stub=99914B932BD37A50B983C5E7C90AE93B
+[case=1]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_1&aid=8662&device_id=0&ts=1700000001&_rticket=1700000001001
+User-Agent=com.phoenix.read/72232 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000001001
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000001
+x-ladon=ZVPxAQ==
+x-argus=AfFTZQ==
+x-gorgon=840400204001275058c229123faea7cbec61df8bed06dfd0e87e
+x-helios=AAAAQJIskNyyeFzzv8SXyAIEqMrlYrNwGsGtI+hn8Ro1cDwL
+x-medusa=AvFTZfYZDJ/WJo9e19ubFVY+Mn0AAAAB1RVABBDoA94DOKkulsimmV1YVtWr3MIvVw+PHqLBVGPBYrpMfXO9dfbMs5mbDL9Z4DWvrUNlwDTkjkbkoE85qAPGKiQxjpNh7tqnLLxczglim9LGAf9g6sBfagl/THk/LfT/cokgYnvH44Xh0QVuCQNAlNWnkBJOEdtvHAvqkicatGwTlHt+3NcFzIEyG+ndnyD3qL0PbgsEOa/R7Mz6yqyJmUhyAMvepKtRz5lphLU4bWfN8MuIqe1IgNFDtgDKfWFI3NuuDTqRwxpIII3csi9scXzHMYAgH+2Z8FWOsMLi1mnw9aCCdvxm/ImRhF2kSXTLQEjDfl0J+JZJIVpd3mogEhP6hbGhiG3wJ00S758+vBsp4qmrVcFB+3reX6M1PaZRq8f4zGqOAa/mVR6qa2cO/IzkRa0gVBv66307L8Rk5K4YHPVBAwtUAQvDJ/wqpttxdegszwJbKuAWTOaT3p8Xt1sjaDRwnySva+KdwGepI+IJX2jGgrSx1X4CGxnbynLGMyYp/yAzLhRy6tT4nE9WFLHjzevfCY2jQJzRatdAJGlfRuvv9M/DEMk7yVdru6yXb8UA+KtvymZMAfNbwWG072LNh8xh/fh5ihCp6qqZlLaYy2mGEgDevIHgqsXZ9tqAxuil2jMLQ8o6zB+XTYliRrXTp7i0La36ZZeg0ob5ElunRncndFIvA+0EqeOcSF5uNzCCIbbWsZryqnInqT4jaI5OqqTtJtmkwWTE0suj+Ix0Ua8X5q+i5HKAno8n7N8b0XiVSXaLw9ztrBH2QPPOjGzyTh0NFMZb7BfzTbC9N41ty0n82nhHavWyHohPG6XJsXDEkKHipobMNe3pG+ZknNaENxDAJgfcbxP2DNMYS7sQqAJ0OgaiIXaiT90PNvacRkjLhVCRHfsH+w3lHLaJju8H4x+m/z////8//r8AwA==
+x-tt-dt=
+[case=2]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_2&aid=8662&device_id=0&ts=1700000002&_rticket=1700000002000
+User-Agent=com.phoenix.read/71332 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000002000
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000002
+x-ladon=ZVPxAg==
+x-argus=AvFTZQ==
+x-gorgon=8404004040016ad7ab027d75164a6235404121f548c923b6086f
+x-helios=AAAAYHYGV1FsuWfcAqIUPl9OciFXK6tvmgzI4re2VUm2i892
+x-medusa=AfFTZfUZDJ/VJo9e1NubFVU+Mn0AAAABODUAABAIAZwMGD4a/WU8IKJJWrLoUhI80VLqANsSlXN1AWd3XYW8huvryCdcqS9AFwwqYIT8oGIvh+oUBl1FVhvudUlfGpHLgoQWm/4/W5pRThhZO3O2GhPSnrsqTjQL/vpu9kkMxTNpK3Ujo7U7Lgpq2Szk/lMnyK1lQlSAiVezIhqhMa9r2kaN0GmqNDhAeQ2K0KYFx1MgLVq6riJTcrY3yZbApDnLGcGN6rxPzPRlxNRDW3SaspMdHODCJIzop4H1pyr0PiIH6QieWgojzYaG1TnmbROtg3R98ozFgHUjuyRKODA0P7VsBg2zOPlQiDzfAMWdxhIzRThq+h1abUAT4mOmI1HGavzNP4Ioz8i39nse24bPRU22oW0aQaV1OrJBuTx5tciFWu1nf6jt06fX5RLbCc3fs8o8nGD1xZg0701nJpgcJEmGPD7VLdBsQZtnPyha9DkAvIRB8bpABNMOyjlL5CL7mSg6KwN/Pu8HkUAkqJTMjorJ1YDVdH0bqEbSCY5v+HK2KQJ4MDThHv3AoegarnNEVVX807vov5iULiDLt4lFh6WiMuG0ieBGECGTBmZRPKQrp1Z8NEF2fkP6jJEd7fLGAkCAY7o6wZTZyOfIFOy+EtAoSkAIwmpnvElbHuO3TIkvq37yMoQzlwqXuXMYrgG0KxzYhS6haXqOANJuo3a6vfNavQ3cuYO6/bSb6kxOPSlTo9gkfnUzykEfGYFZOwo1jprLnQ/ZXXqCXCMVAzrxPG9vX87GO9oL4uzrzXSdOOtmgHSPup/IGvoNHEPfWr0afDH/Evsqjyc7N7wc9eNq4NO5jR4qC/Dxq7luELiJeit8H1ZbvaRvNtExUg2AOklLDb6RZwzqvZz0ojvl+yayFtzpzBViHHLFMp98mHmEArcgu4iDpWdyTn680rgh2/hh/x////8f/r8A4A==
+x-tt-dt=
+Content-Type=application/json; charset=UTF-8
+x-vc-bdturing-sdk-version=3.7.2.cn
+x-ss-stub=99914B932BD37A50B983C5E7C90AE93B
+[case=3]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_3&aid=8662&device_id=0&ts=1700000003&_rticket=1700000003004
+User-Agent=com.phoenix.read/72232 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000003004
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000003
+x-ladon=ZVPxAw==
+x-argus=A/FTZQ==
+x-gorgon=8404006040014ae8335b3b28c1bfeb1eb50d1f8933a780caf3d8
+x-helios=AAAAgNR/qMx8gta1Y5fLjvcrucE2zSz0yGS0xHZEbK0/CMNc
+x-medusa=APFTZfQZDJ/UJo9e1dubFVQ+Mn0AAAABWzUAABAoAVkOONNvfbj3R0krNiS/FhmmWclJzZsdtlUE1bAcKmNP486qZPI6Q+Urob+pUJugnQ3mKzD1qS9CG+madTLJM6sPqYycBFuTUiIg5aYU4LLk8KUyYF2YucZSZ8hbMp7yVKn1H56OFqJvzvwq6lzQTU307RzhBnC4auGYVnwTbzZEk3d7PIhpZJhzEWcJ2QkJgzDCj/zWN2cFcBU3lqUhxH9fDBfJ88GVmJRXmF1gHlPvclNhFA0GuroNw6DYQICfuedjqSQImJlTCEZ/YclQydYtGyR71rr/Rh80Zlb21BetAdpum+aMophM5yDnsKKQUxdQIT/xjN1XcbLG96FNGpHBuTpYdPzSe2sLG4HRamXY1qMHtIEGhcTUcxPB+ejDlTtPKhxtfepihe8H3wAc0dxDK+sbeY8vVjOj3bO94/1XF+DR2Zd2sA6a43Rzs3oM3QYrdEUS+skJlak9vwiYcNAPg7nVUoyyqmPQpbgkYza7Hyqbe5D+9fOaNSnMd0keOLGRrc5lSwzikOeSGNY3FQK79p02qp1TzjPBhYeCB1KOmjNpsyHevpIC6x5Y0DD9N9Fgkvbfjg+6UxFjooTk/4OC3kTWEAgU+ry+YRc7nvMsnTn+7V4U2OsuYMMryPBdoOyZzhspUNqQeP9Qtj84GBluMoqvRfwr0q32Gu9UOFnlLG9ZZNdHk5gNri6Dzb9KU41nQF/wAkVbbWIfuHca5yH8kMVP5w370wr6GaRfQxorECMGkS7aWo4jDApQE5qUsr4nBGzuA11iUFl9SH75NAarywS4ePswPDqpM9qQ0Gb7pZdEZE/Kde4VobDsqJAI10fR+9wAvvOvB4PRVyJLLUwoTnU6MPi40tewaH+YTXYLQVDkeeALQt8KHhCiENed25y7nr7ahSHNqQGPdM1zjK+n/////////r8AAA==
+x-tt-dt=
+[case=4]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_4&aid=8662&device_id=0&ts=1700000004&_rticket=1700000004001
+User-Agent=com.phoenix.read/71332 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000004001
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000004
+x-ladon=ZVPxBA==
+x-argus=BPFTZQ==
+x-gorgon=840400804001bb0453ce37d05082fc37255d1e8680c5acbf45cd
+x-helios=AAAAoB2TnEI1J/jjiBuj7j6YkGshGxG3aUEdQYuXMPAd0bXc
+x-medusa=B/FTZfMZDJ/TJo9e0tubFVM+Mn0AAAABfhUAAABAA/0COAtSjFiEKsrgvusD0/pqKPwEBJR6SUjICetCVyKP1si3caG6XShvl5X44KrPVa/EnBNVfBjLbb51aeOccrvhYz4FSNvHf59Gxo2O06FKsRhvz1VDnaWrXKd2quoPSmHcXV1FkxsWnWTu8u7bqhZUTgNBOxIxHyLPo+ANTwTuH51RQwTtpDOXbDOndvPzPUHK7Rs7RPs/uFXWAhDWXXSlbwxawbrugXGysyeggHPTlj1dQTVikAgK1jrmG0f94uNYS5ysuvLJ4XzCHbj919VGWILU1Wt5iTAcVihNkQSXJajyoQoX1SP3SGjQz2MEu0MVawSp2cE3OGbPW2kA1CjyogKnn2cHZ8dVeD6jawffcLYSNLxXPd/wPhbNiKLSAp0cd5RCJoV5IJIDk/F5IAaqF0IXpEOvGKuYqVnFrSvy8ldoLsWCSwCbjJgrmdbFYoSTk6iiBywmN7xGDM68jVbcujRYCXnPkbWm7s1sxB8kIJXzpspEeWRECwzEZhpnCeuiJL80aFpSFPoGMf/Zgmn1o9UFT+43d3gXLkLlXen0W97tarPnmR+bnaLZTLVCWIfUXAcqSDeYwsb7JJzk6MJJ6AuZuU6GAWkw9T5ScJYA5xpAM+7tMZDGq/p3vNUq5UfMaoLI+rxwnqGrakaJOky8Uqtbtz3DAUnJsZ/JTvGbge9elu35qlpo/mIdLQ8doGsgokYO2CGXKWMy5TYjtfLumDxVcmXn1kKUvfOpSFy1sYL1gQW5rHHiQtgPA3EH6en2nmHIODq3S8ONSvaFo8gUZteL5EeV7Iudvrko0uBRtNl1uqQgFypMQoV4MyVEvStr80mcDNB9JCuAmlcnAWNgDxtlrC3m+AtFirAcJkbId7tRK51JB1mCpxrGjQJMx6AJYNGyHlEs98vazWNQsXJB/9/////f/r8AIA==
+x-tt-dt=
+Content-Type=application/json; charset=UTF-8
+x-vc-bdturing-sdk-version=3.7.2.cn
+x-ss-stub=99914B932BD37A50B983C5E7C90AE93B
+[case=5]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_5&aid=8662&device_id=0&ts=1700000005&_rticket=1700000005003
+User-Agent=com.phoenix.read/72232 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000005003
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000005
+x-ladon=ZVPxBQ==
+x-argus=BfFTZQ==
+x-gorgon=840400a040013db7088bd87fe40763d98a0d552a02b38480cbbb
+x-helios=AAAAwLP9lawAGzdJHXwuPrpjYBl70mt+mtj+aOXgg8cEK5zK
+x-medusa=BvFTZfIZDJ/SJo9e09ubFVI+Mn0AAAABFTUABBBoAfKLOKf5KxKnZYoAgA8FR8rlkTOpOQ9L/W/EDJ7mAkaHlhlMrNFpe5YGuRv+y+CCdAyVqTDaPpk3FbZAuxYg4LnI8/KyOLKwA6Csu4DzqIEA/VNSilEL8x4xJj3Rq9qXwJPoAdreVWbpMIUS+fQOipgbqgjtIZo46cNf8AbbucggrSGRzRBpsPf9onZfo4IpNPUDvBBE/UkH7RSPvO+oLxBDQ7M7XpjUhj4UQaZ7uotOXUHeRXJJr2T/5CSMyL727bhCWaU0iaU+v2pTOnTedSq/bmNAvcKconCnCXUH55GBNKulgakfoDKw4Hv8lEAcVizWB52aBghGa3Yn0aah3CqIwMslOQVC6QG6gQuJpGNgW0cobprZU442xvtsC3Jxw5HkvCSLJ/zhsGj36JUs/o5g4D9voVDUUweUXbd5v0OFkaZMBup8zz59ZLhbi+UaKRHV+uj4pm85R/U87BXRsVyDd7PesGdA3fVLGelkzbufcaUQr8ymJF7wh2lzlFnLUa6fRaeYkD2Bpp1UAzrmrG9+gJ29eDB0ryD0xMbaW4Jv34ADciYQadM680qND/ZFz0WUpAIA8ZSC5ry8EmDeRRdzbbXzjmz6cpc3g4QPD2pGfCvEMfaY1qX3HsBk/9WtCej8CrO0p6qXhg/u9KF93phyoznY89VIw0TwCIwB8nS3CWyNNNWFNTTHyuLM2mz1rTg2mce+i09ZgTEQiqPhHvhQ4A2429hbJg43nECWS339Xe6ixpK3J0vx6+75U1wai+h3K1Jhp8n8UUcb6qb0nEcQHAgWlHz0VH+Nuh2IxiDEvfN+4igRIjz8PH5EAt96oGh/TsByV3hRv+oj1h9cDmtSV0Dt/WhTCGKJi+Am1OcLaXkIPuoyr2TcayorOkmr0Xz8+3+zcen4UrMyVD5u4RTd/7////+//r8AQA==
+x-tt-dt=
+[case=6]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_6&aid=8662&device_id=0&ts=1700000006&_rticket=1700000006000
+User-Agent=com.phoenix.read/71332 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000006000
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000006
+x-ladon=ZVPxBg==
+x-argus=BvFTZQ==
+x-gorgon=840400c04001bc8d086ced45b5cc566faeb52fc44b2e043d2cb9
+x-helios=AAAA4KeJUWxSmiRhOSZF8p/1uLbooWlk3ndkv2qfLi0aLp3D
+x-medusa=BfFTZfEZDJ/RJo9e0NubFVE+Mn0AAAAB4DVABBCAAdgEOCB5UtEn6Gkz6UQITEnz+ofEs51V6LKl2WOU1lG4C+U/qCXBzIloxhPjouToqKEP1i4OUBHqMSCM9aB1l6siZ7OvKmGie/IgdJoTdy998crzvai2V3sN/7ZOfuCXYyZsP+K6N9dL9twR/aYF5/unIxD/hrDenyqMLcWqz42WrPSnHWn3aDCtsd86wQ/TcoSqr/c1O2eEp0P+qIUCnOD5EJr7NOJYOOjtUm+HlbkdIZrcN5vriFofniyIVCZrPukEuZNGO1EI4ttROv9Aouu692DR/drQi98UCn2XZZYxme+5eiTTd7c9KCkY4U1aPktiZAo9mb2uMMg2SBWtKJwAo7NjipNYmK5kLnI0mwYkds3Vs12Lr4BzwSlzup5FMiOXzF3F5p2mX0ePhCtdBibR5/+PrJafOEHjTz465YTyl8GbIFkOrF1W7GTqv6KcMdWIJuoG/Sznv62Y6gVg1lTBYZVW3tR2mA5M1n3B3fAfWMgxLVDyl24cbgimLNkQ4H13OPdGR+/+AHPYGAm1JnHXQYzVg9pLA/oWHPcjVDYPC135FsScAu7t8VUiFPaB2mF1BdwrsXjS4IUJpOxPxEmoQucAs0F3KsgkPI2q5fntuZs0ryMDvzeo2ynpswt7fCfnIAZemVvkepS2up19V45dQX9tbCA/5dG60lFyohc+iWtLzr6IEnOkQulvSBZR4oDgeGppxMxCm0MGUD30o1qJ5znr7JbGsaSFzsOFHQ7cUBD8twvD6rJ2bZNI7TH3dGnJx1R6WykEEgjMOT2o+50alaaGPwIVLLfNdueSFhf1mOUS2hvwUgIfz8K6IKQdpoM+DxasHBw+QAXKWvfO3mFpNTi7mroP1Po9XiY7a1kOpqoIuatqiCRmhpY6yBOJtml0Fp98/sN/R9AAoDf/n////5/+vwBg
+x-tt-dt=
+Content-Type=application/json; charset=UTF-8
+x-vc-bdturing-sdk-version=3.7.2.cn
+x-ss-stub=99914B932BD37A50B983C5E7C90AE93B
+[case=7]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_7&aid=8662&device_id=0&ts=1700000007&_rticket=1700000007000
+User-Agent=com.phoenix.read/72232 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000007000
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000007
+x-ladon=ZVPxBw==
+x-argus=B/FTZQ==
+x-gorgon=840400e040016f56789c6f27972a410fa451607fed55e020396e
+x-helios=AAAAALNVicxjdqCg7vOJGlljYInIMLpgJZ6NUTjqlT9/cKKP
+x-medusa=BPFTZfAZDJ/QJo9e0dubFVA+Mn0AAAABnRUABACgAxiKOJ7F98SFVPO6uORbcpcmqxoN+TpWNDBUyM1hxs+nKo1R2K03cvYQ9AXVkq1d3+LizPanNJCXjDXZOFq73jMgNVllU8wIsCK6iA6fEIbOfb0AK5Y/yaPLCbi4vqKVYgA7SyBSUn6kQN6R+GEgX1turIl5vHCH9GPKcIxD0jRk6KQvZhUAb7II36BDNSs+K8Ko9Z3ac0PVmYxasb6oIvToTQHY5ISmA+osNKWIBfkakJ1rLW3uy2y6t9xkhG/W/DMooAYdw2Mm/20PAXj2P8KWXv5R4n7evMP5ftjp2/jW2Vj9rIu6OAUP7+OOG8FSLVaBbTW0CLLf9wCvy9hXD8j37KHaRj8griq5wnL8HIPB44mQDfpRDsast6jr/DWslqUJ+8NlOMbNCe7l1icAYcz4DHTgftTjRHR9YW92pTDzykh0AR9+cqPIj8+5wxhlv6ct5ahtM2YgIlgwCzt5loNO1Bt6KFhHzbLjc9mc5YAADVuE9YyElPPGUXgBCzJrtxP7whw3Y+EYc0/w8OxaVa7hnspdDS3VZ3wN5hcD/37iKJfI0TKIE5qYSodwmWaAD5bU9edZLeI7bR8qXNmoRosczE86zeYw5FFVTLWkJAcSQ++5mmHS4+yYQuEB2mbF87UL3BNY9+qHVRKpzMTV3h6VZ1eUCNG7njjj7VI1oqLfK7sqnCZrUXePIY+E+5ozxwFqRlltyLpiJhQynro2GX9fobAuwpHwivzpGqYthuymI9vBNOmn7MdqHZZ04c0W1L739cDlSgiNV1lxB1GlNSXCs8OFKdnoWCjbP9tV4SRRo6fx9ndNuxrHbl+nIjOVhVl9W/JQChD9CR9gheTb5TlURlN+sWTVHq1cjqUncmcrwG/kR9KA4s7nRUwfHo8riZOUM9X3koR45COSwpxj+5su/3////9//r8AgA==
+x-tt-dt=
+[case=8]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_8&aid=8662&device_id=0&ts=1700000008&_rticket=1700000008008
+User-Agent=com.phoenix.read/71332 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000008008
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000008
+x-ladon=ZVPxCA==
+x-argus=CPFTZQ==
+x-gorgon=840400004001b89883754f3b1b24deec244161d94d4bccb2a0ae
+x-helios=AAAAIJ7M6XTct448C7uZ9NTKFLKlxm1sHIvXbZZeRRrXLc/G
+x-medusa=C/FTZf8ZDJ/fJo9e3tubFV8+Mn0AAAABUxUABADAA2uIOED9oJQzVncTf0XM3nhwJdbf8T7EQZe1P0uRoByybAXmn0NvDIClVAurXOq3cy5L8V+mMV6FyvgwoZ7H5985kMnOI9mCjLrY5h04/rKWVpQvq4rQmLUjKT+fsQURNoBANsF4R4snrcE80NfdLmU7zAGRq1wKvnfCJVHrbO77BOpZz66LpPCRcMA/+cU3uqVv5OTnYyd990Fh1Vk5JFt61wOhTO9j3zMJdbkeh3Wlwvy1e9Ty+0rl4iZIlqdaAsIQccG4GA06+vU9c8XHpqo5n6wFB/4rGPzHzKu6kSVaPKIKB8Ta4v/MKrk+AcV0nrIYSe7vrm7CgHOmma5UL1ysyVOT95BUcV8aEkR6Z/shayXTAPrmhehBQZojcxUOWn58Pyu/2Ul1CHaH6gl0+aoiwIRggc9ZmnERj9cQac1grBBcv9VJnFyWo313bhN+G8gzWbQsl2hRzK/N6rZVpZ9a2O0WiJjUT2wjrli4JbDVlGob2WGUy2TKeogy/fZsT7I0jDb3JrFcD3ee9FFS2f+qHaLCrsgqozci6ysYfG7OMhgj0PSPD06bVdGMKepOR4u8c9zjACvu3Z8sM9sey8+8fdxy2aM82UWwPbr2lnqPl6SZYb+PiRZ6xVmKI/YujmSLyYTw/liuDHZXiKU+fR5xGz/U1w6GM+Hj880mkfMlduN4ibv2dpjWJH5dmywAhAlOQOoRDxc4enNxjAzwr4bHuHDQmhTyiEcZTocDwcI9gAXotBnSIsldEpU4vRXa3gNK4YgyiJ39pkPU07HAWI0L6/Rz7nWG6ZoXcTJh2XOPze4+cL3gQuccoloM5beIkGlFOOJEp4sZYvLk07Gb0qQWaS0Lldzqzo2qywJ2+7kPfBNy+PoHYG0350dOdp09jkJuaSJrWTypZaFDCeLITiBX/1////9f/r8AoA==
+x-tt-dt=
+Content-Type=application/json; charset=UTF-8
+x-vc-bdturing-sdk-version=3.7.2.cn
+x-ss-stub=99914B932BD37A50B983C5E7C90AE93B
+[case=9]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_9&aid=8662&device_id=0&ts=1700000009&_rticket=1700000009000
+User-Agent=com.phoenix.read/72232 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000009000
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000009
+x-ladon=ZVPxCQ==
+x-argus=CfFTZQ==
+x-gorgon=840400204001e354f87729123faea7cbec61df8bed06dfd0f85c
+x-helios=AAAAQEFmeClUH8NIip+NG+T+Wd/lYrNwGsGtI+hn8Ro1cDwL
+x-medusa=CvFTZf4ZDJ/eJo9e39ubFV4+Mn0AAAAB8RVAABDoA8QOGEPAccG5aKe8OxZgzePBne+SVF2Aq1eJNDBO562HAwXCtFG8+XOkRemkJSySRu2op4vlHS+vfDtzzpCYW5hC+IkH/HqeJpVmLmOwA/VweSYaZlD5KeoeVRbQbX6IGhFU7LCxzqEUPwSvPwpjPloslmQzbKn+YiXNd64SoU/i1RnFn/eP5NG9hsiZsRdLtImo2uyu5CPPk7e9si1y6+bCa8kNQzGQkd3EiRUEbByKiOofN8VE8hOWLNsOZiiUw+V679EmMj/rX8s9BAEZ1lH3U6jNA8mxhryb5jYlWA5AxrsMbUdWCLZuTqNx6qcWcwmU+QXSbrd/Kq9SxHeHwhZZ4naWDbpDiBUF21maPcYNjeEIUZbPM7ERCvuMfixQFMQjNvsbbhLtTRvPPlkI9xzj3RINL3a/BBHhe986foSsnVBkRTmemzLguoGPpAR6UQTtnc/i2q6vRy89VjKPVHn2dP06LkNfdYy9bvyCPeLMVATGvkjKa6LWOebVP1Wmss3pS3E8fT7ap3CkrEb0iNB5UdWpWFZv1YgPD0HxG5PzTA5lZMTnJOzbqayF/1Mkr+2EV50cyO2StZmPfsNRgHjfvHB8KhAJ7+LUJv5MtU6FZ6om1fIAPkERDNXizs6cOTXay38fsNPVC/kj3KKBIjo941LP8eS3t8bWK7+v+pq89ctg5pWopC/3R51xjO6vllx0zsPV+tVKpbkTUk92qqTtJtmkwWTE0suj+Ix0Ua8X5q+i5HKAno8n7N8b0XiVSXaLw9ztrBH2QPPOjGzyTh0NFMZb7BfzTbC9N41ty0n82nhHavWyHohPG6XJsXDEkKHipobMNe3pG+ZknNaENxDAJgfcbxP2DNMYS7sQqAJ0OgaiIXaiT90PNvacRkjLhVCRHfsH+w3lHLaJju8H4x+v/z////8//r8AwA==
+x-tt-dt=
+[case=10]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_10&aid=8662&device_id=0&ts=1700000010&_rticket=1700000010003
+User-Agent=com.phoenix.read/71332 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000010003
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000010
+x-ladon=ZVPxCg==
+x-argus=CvFTZQ==
+x-gorgon=8404004040014d884d117d75164a6235404121f548c923b6188a
+x-helios=AAAAYHNViTq8aTe9mji60yXLe4ZXK6tvmgzI4re2VUm2i892
+x-medusa=CfFTZf0ZDJ/dJo9e3NubFV0+Mn0AAAABPRUAAAAIAYmHGDpeyhjIE68zxr7Evwlew+NVKj1LeUf4ERqsppFHRWyw7Lu8NnMuoIBQQ9dJeitNbV/nMs3PgzWrYbKMIV2N7iI/MHTOHhmOGW43FjDDZP9LP81oykAk9f3eWnwFGtxD8XhNzXw7ZsBB3D1/BbdUDelxEimlBMODNJVRjo3VXdD9E3byPiD/ZCOWJgW+OSSHRjiQTZ+r3+lVqffrHMeVUZiOvTfASbpiM+iX4XHqJ9nXFUbeWgOHXfDIXYoQr8/ShoeCSJ5XSs5JoPUfQia3ezaAalKgHBhdIABRzoZXgoUs1FuzZkuagLE7thwFmVm2q0hHozKatM6+HXNtbRya3W02b+mjOPyPA/xxISIQ1xiuur116kWb7VbVseCXpnJByq0VrOT6r0l8HlYwEkKspUk2TeSg45JKGvjX2P/Vga9UDPH7kRuWS5EJdoBWTPimTvV8qTV0LvZdt+OOdGMBAeLEhthMcKhvaf/BwLCF6H7EiXlWkdMDvu6hKqYRc0C8LzijJEkGCjCaTklKjRruq3Qf7znQ+HpI7pKejxs5ijm7FineElZsy9mbzijrL9rVGhW1ueTelvzv61G8IP1Lew574r2DD2tQbyOHKlIlYOqraNK+mUatjpb3tgIQEICj9DDXaXkVm3R4LD6NXQt3IxFIDuJewqShA90JjeIE1O6LNuA4a8nauL4MXGjdTTmj1JNvm+WSN83MC8IxOwo1jprLnQ/ZXXqCXCMVAzrxPG9vX87GO9oL4uzrzXSdOOtmgHSPup/IGvoNHEPfWr0afDH/Evsqjyc7N7wc9eNq4NO5jR4qC/Dxq7luELiJeit8H1ZbvaRvNtExUg2AOklLDb6RZwzqvZz0ojvl+yayFtzpzBViHHLFMp98mHmEArcgu4iDpWdyTn680rgh2/ij/x////8f/r8A4A==
+x-tt-dt=
+Content-Type=application/json; charset=UTF-8
+x-vc-bdturing-sdk-version=3.7.2.cn
+x-ss-stub=99914B932BD37A50B983C5E7C90AE93B
+[case=11]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_11&aid=8662&device_id=0&ts=1700000011&_rticket=1700000011000
+User-Agent=com.phoenix.read/72232 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000011000
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000011
+x-ladon=ZVPxCw==
+x-argus=C/FTZQ==
+x-gorgon=840400604001a0cef28c3b28c1bfeb1eb50d1f8933a780cae38e
+x-helios=AAAAgCaqTvzZ+acUIfjXzRCb4V02zSz0yGS0xHZEbK0/CMNc
+x-medusa=CPFTZfwZDJ/cJo9e3dubFVw+Mn0AAAABnhUAABAoAUwIGOZePj98mI7ivl3MTuRgMEUEJfeSbh+GukgEshO0jVAntuEwBMPKmoY/G49P1jZ05uzYHO0381Ng9GIqCFMVHzM7RFrfcf9xgBxiPS7PDKUVmbNomJ+gIale+YdBovF7p10Uo7F6hTm/bFr3Lue2Lx4ShxRwEzOYSj171rCf07pRl8OAqtVW8zBQ+FvyXtHib9vLyBHbObuqXWj2M3W/hbCzhZzBvXnTu4GDpevlk14JGzvOmkHihc11/PY+HSzcsOFQ4/6n4CHENipASxpSiIOZyfG0iSpG9OwjE9KCpaqtFH9JoTcisYzJWftlNUkAWcw2R8xg2f4cleQBu8hULhvsMKqsOo9tzKGH+Csk+36MFQktRCOkF8Djh33hMTjzsnzmQYANUP7EzsUj52ScXeEdQ1xnYUIllm8CUj2gaECF21ser57hiGYIZkEAxipTi+I0KHnau6lbjPOQG3NPZlbHP/FEsMHP/2kMnfkPeW3PmkNBx69WH7QO9Js119VTn53tXtxx3BZJt3yFJsWWWAcAcQk+UdoLesKduEiRbIv+t/R0uMz68t5H6OCTFKLYpM8o2vqp0B6YaClHH/mxze+ayYrJlmjk5/nCdzVjmUYBBQSu41TOnpRTVPypO4x/WY1oyFkEX1pUK8/Cf5ztrfe/sEN9J1BMYnqAC7R5dUkhfWf75v/jYGKzkIVeOaIkcWsAuYh+GeLPvrcS5yH8kMVP5w370wr6GaRfQxorECMGkS7aWo4jDApQE5qUsr4nBGzuA11iUFl9SH75NAarywS4ePswPDqpM9qQ0Gb7pZdEZE/Kde4VobDsqJAI10fR+9wAvvOvB4PRVyJLLUwoTnU6MPi40tewaH+YTXYLQVDkeeALQt8KHhCiENed25y7nr7ahSHNqQGPdM1zjK86/////////r8AAA==
+x-tt-dt=
+[case=12]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_12&aid=8662&device_id=0&ts=1700000012&_rticket=1700000012006
+User-Agent=com.phoenix.read/71332 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000012006
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000012
+x-ladon=ZVPxDA==
+x-argus=DPFTZQ==
+x-gorgon=84040080400161a9a07737d05082fc37255d1e8680c5acbf5597
+x-helios=AAAAoJRU4/5/xJ1BCTdmsViwA2EhGxG3aUEdQYuXMPAd0bXc
+x-medusa=D/FTZfsZDJ/bJo9e2tubFVs+Mn0AAAABAjVABABIAzGMGLTp5mATr2EBWq/d4b+iKZxH2FdMve1zv8vLq9wGgEGVXwwFAwPJAVh5CWTQ4yrqTXov1mPudw0SoxaVCWkeTpYfMmKYrPiqCCebheyeVJvoNy9YZwc9ANCQQiOtpNj1n6BwSbThgkXFlZ7Go/g2gXECq+5jmcD8pqjWjxLetM7bF+7wL1IAuxMX1b5C/+Y5r3p0USDuEzt4nYzPGT0yFnFflif1buzNwJdYN4a34nrzMEaK+GExqjQCMNKmmyg1SrH8Mm9AMw/X82p61VD+bYvrhRryI/NKXWxy1fOk9J8fGTYOralTGwrxBoyy16cciBK6X8Klq2gMQ+4kcFFlN9Oeh7zxb9Htg0nT5aMAKkVLDUrHS9yecDY6F83YZZyxG2DBBgttBrcwNfcviP2tVk++5Jixg3X1CIkiQilVzQtVc/L865/Hj9RM5vJXknHsG0U1GEdOnyEyCqLdaojPEHTgjC3uZDuFfXYm/4z/DZmAMTlO2GPd2Duw1otbmTu0xMq/P1UBhSd7qe4pel6EJ25UbrYSFl6HkAetVGn5s5YH9elA7k8OAfnn4vLSEV1J2rhR4htXYBL7cD5FQzA76RFW/Sn5n6ic17tcgwOTDNYDbdmS5Z16WzF5FZrpth7Z7Y03CFp11M4aCAT5e9YpiOJHjuAWQub1M/9Mwhhop5PbHio/U9uNUEge35/rh8RGzhtI1YenEsqUe3zrtfLumDxVcmXn1kKUvfOpSFy1sYL1gQW5rHHiQtgPA3EH6en2nmHIODq3S8ONSvaFo8gUZteL5EeV7Iudvrko0uBRtNl1uqQgFypMQoV4MyVEvStr80mcDNB9JCuAmlcnAWNgDxtlrC3m+AtFirAcJkbId7tRK51JB1mCpxrGjQJMx6AJYNGyHlEs98vazWNQsXKO/9/////f/r8AIA==
+x-tt-dt=
+Content-Type=application/json; charset=UTF-8
+x-vc-bdturing-sdk-version=3.7.2.cn
+x-ss-stub=99914B932BD37A50B983C5E7C90AE93B
+[case=13]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_13&aid=8662&device_id=0&ts=1700000013&_rticket=1700000013001
+User-Agent=com.phoenix.read/72232 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000013001
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000013
+x-ladon=ZVPxDQ==
+x-argus=DfFTZQ==
+x-gorgon=840400a0400157d256b1d87fe40763d98a0d552a02b38480dbec
+x-helios=AAAAwP9ivl1ik7/WYxNxUdWUeIN70mt+mtj+aOXgg8cEK5zK
+x-medusa=DvFTZfoZDJ/aJo9e29ubFVo+Mn0AAAABXDVABBBoATqIGLKoaHXLMx6ayKt4OAT6Kw/ihfXYDW3GPkhAndyWkFh8ba9bzDdCuFM/DYHDzQmc4fUMV4jUcfS2ypf9iTFqlqBEXxc4zlZSFgsSOJJYFnREm8vuWrItOPVE/Q97vpTUwcmqpbmniA41X1Ai7JXEtq605zjZ127DzNlpAGX0sRWksnk8XlUG36K3nKO/87mm/f5W36p6Z3cOUxdknZvpj7NnuFsshvZUq7CV90MbtkvQ4ltz7W586Oafcha8ACiHtpHY61SS/7l+8P9gQUdl/6DeA1wH6bTT/rXloIEKcYAU2uLinqIups/TXxfV0cn6hS2RzjG3C+TT4Hte/GxaFF99F6ztP9w+jvedcNGJhvB6FX9RcB+XWnzMj/bZAgeRnZhPne3js3IkeEQyX4VZEqFtE/s/txXosIyXH2QcYpCu66d7ShOTTpMclFzciFoo3A7tUKWxXb1U11TgeRWBrnOTmv2CcdKe1FRMMTSHNqc/0AYTQ5BpGRYagF7nTWq1WFl61XUEMrzRCOcNoHaKLATFwv1A+cYZcYSV7+yI9i5PYprFe5Ruli0RRjhoZH2+zZfV8lejrA9nmxucku+LcqV4woHJxmFUVs2oezAAEIJl1yJUhHsv7g8qXuJ1uK2l/+W9IaFBJ2xUxMZ24WaGSmq9bxq6EeAH07t1YHxBthvjFq6wp8vKC+9lqkjk+YtfASpJkQoJ3jufwGAJHvhQ4A2429hbJg43nECWS339Xe6ixpK3J0vx6+75U1wai+h3K1Jhp8n8UUcb6qb0nEcQHAgWlHz0VH+Nuh2IxiDEvfN+4igRIjz8PH5EAt96oGh/TsByV3hRv+oj1h9cDmtSV0Dt/WhTCGKJi+Am1OcLaXkIPuoyr2TcayorOkmr0Xz8+3+zcen4UrMyVD5u4RRN/7////+//r8AQA==
+x-tt-dt=
+[case=14]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_14&aid=8662&device_id=0&ts=1700000014&_rticket=1700000014000
+User-Agent=com.phoenix.read/71332 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000014000
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000014
+x-ladon=ZVPxDg==
+x-argus=DvFTZQ==
+x-gorgon=840400c040012c093789ed45b5cc566faeb52fc44b2e043d3cb1
+x-helios=AAAA4PC6/9fzlKo87YDGoFhot5DooWlk3ndkv2qfLi0aLp3D
+x-medusa=DfFTZfkZDJ/ZJo9e2NubFVk+Mn0AAAABhzVAAACIAesAGEhVl5986AB4RPTwu84fFOu8qO3d3KvhAGkZkNRS37mxaJP012RxXePOnZZCryY2tR3Ux/dQ0qcTwHbukVAP0dMzCtSjkKx78NPlmRKiI3V7J6BIvLi8sZcx4NOg7T04qkIUQp757d6g7CQI2oVdtvCdGy4bGPwCJYqsjEA2aqDMemngVMommzdWfn6nbHERRtE7dY/brbgnqzLCy5pEq4sWZA9PF5Odr1E/gs37MyBAFASitWqCSNop7G2nFUnsZj3jsmEiRzIHqqKcj2MKLxArjPltT5lx6l8mynKzQanzLkqEd3Qzn7oSCjx8rDXjXlhp5SLm2U/jf1uAD5BbddpWOhm8xfiDyzwhzalr6fiBJD0Z2722LIOZEwkiYsSYFZRA88oJV6SIEYz3Mum7d2HrKdYedKCo8h6eoApJ0Iy64mxlxPFbcIsRm9ij/mAWZWKDSQoacv63IpzkayXlkXYZxUm9TX+QoYIl/30Rnfjrq1osW87dwKIN3z/o2Yzjjc40ux7NiETpoJuZ0dIld4+7/TO+R4tRl+5sIVTR2xnr2qwbxku8GCnmLmtLOaQ6OOiXWINkngi7sspAnmzrv83SA/Z6HYz7BrNRHJ0Fmqrc2+hx1+Z+3Ev7HWBOfiDZzn8jy/J/z6aa9cNUQOExXUuoNj2BfZcQzRNviFtmByevLcW0yJHlahewWFVbdSag0O/d7BmEXisGUD30o1qJ5znr7JbGsaSFzsOFHQ7cUBD8twvD6rJ2bZNI7TH3dGnJx1R6WykEEgjMOT2o+50alaaGPwIVLLfNdueSFhf1mOUS2hvwUgIfz8K6IKQdpoM+DxasHBw+QAXKWvfO3mFpNTi7mroP1Po9XiY7a1kOpqoIuatqiCRmhpY6yBOJtml0Fp98/sN/R9AAoLr/n////5/+vwBg
+x-tt-dt=
+Content-Type=application/json; charset=UTF-8
+x-vc-bdturing-sdk-version=3.7.2.cn
+x-ss-stub=99914B932BD37A50B983C5E7C90AE93B
+[case=15]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_15&aid=8662&device_id=0&ts=1700000015&_rticket=1700000015000
+User-Agent=com.phoenix.read/72232 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000015000
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000015
+x-ladon=ZVPxDw==
+x-argus=D/FTZQ==
+x-gorgon=840400e0400158f173856f27972a410fa451607fed55e0202983
+x-helios=AAAAADvKaHrWSHy6pbUASJIMxkvIMLpgJZ6NUTjqlT9/cKKP
+x-medusa=DPFTZfgZDJ/YJo9e2dubFVg+Mn0AAAAB9hVAAACoA2ENOKC7G6GQj6BvJbNehS3g82KGuYHPEYA0H1LSrrvshTcOuYOZ4dj27TcDKP6huaRyMxljMeQzTFUfrjRWH7Dt2u0vf7PX93Dn8yvjjDa/rizhyly6J11KQVl+S9cDTZ50UKH9vHJMCy7j/lh80850XP8mGRjuc3aG3yO33qOGSbiQ2fp4ttRz5oPVuNkwr/WXfv8w1gBYMlQFw8YJq2uEPctf5M9weAu2IdpiT923sS+/GEysOhXI+4gCG3Ea8giIn3atJpullUCKZUq53BCMmPt3tO4NAzNYU/jyU0VB03Ov1bR8Ycuav+4Wytc9XuknzsaMeFkQYI1Ug3+SiLFDYHHQJgqpKZ35fU9YXGU2Ihz74eZFsheGMXaXKS9TUyLypzaeaAtzI0WW5nmCp3gjbkyDvW1vuQ8dHSwgVMXtoRXF0zoBbO6kp+LIW81TVe4R20UYP+tYZiKnzZRGBFru6JpiaTqXaeetfGsAk5cKdJ4xnwj64/5/q+ZP7+e5aoto1hO7HoboU35ZasOpE804LyzbmxeKi1Sgc05ezpJW4SUkAABOV2azx865qLgHYXphPFrz75L+8zb5KSOM0UuVwKRRI4jpjNvpP9KScNdA4axBmOmQaX6CPCxlsoli6Qj8kGAP8BsPZgPSZnjWGicYEn8AhAGxHiaTHG2dgNsygwt3piK94xQ66T5xBUDrZ8ykBZmqtrQsUo3CkHouGX9fobAuwpHwivzpGqYthuymI9vBNOmn7MdqHZZ04c0W1L739cDlSgiNV1lxB1GlNSXCs8OFKdnoWCjbP9tV4SRRo6fx9ndNuxrHbl+nIjOVhVl9W/JQChD9CR9gheTb5TlURlN+sWTVHq1cjqUncmcrwG/kR9KA4s7nRUwfHo8riZOUM9X3koR45COSwpxj+5uf/3////9//r8AgA==
+x-tt-dt=
+[case=16]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_16&aid=8662&device_id=0&ts=1700000016&_rticket=1700000016001
+User-Agent=com.phoenix.read/71332 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000016001
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000016
+x-ladon=ZVPxEA==
+x-argus=EPFTZQ==
+x-gorgon=840400004001772ecb6d4f3b1b24deec244161d94d4bccb2b8dc
+x-helios=AAAAIIPvNH/OxGk2IaXIHaK3NQ2lxm1sHIvXbZZeRRrXLc/G
+x-medusa=E/FTZecZDJ/HJo9extubFUc+Mn0AAAABpjVABADAA5sKOB2gZGfqG2BoT/EppR7a3rfKnI74EgD+82WUogkYChyINf50lTHeVgUYHZcZ241+P974QqM9GKaUFkFUQneG/fyb+kClPg2fCuOp6HGCN+vVVK1iZmIT1ShzzQpF01P/noXIxn9B2+DkrJ6vRhZDOahOjoBN9fnqVIH/q/C0jcnUKwGNh68+zLARXvbNcKhHgea42wN2o1ox/zz0q3Cqen7u1R7ppHL4u57vrXeTcVO9k79hgEDBQVDYfuA6sZrF/B8KCDtMafsZ4rC7doGP4wk7uWDglHb8KreTChJq+DbODLgu2cq1PCGIGJeBISABNwRKbRXYbyY9iol8gxGqNqrvDRsmlwb2zoYot8tQ8Cg+bHIWikA5ektWiZcgqc+CGRzscHd9dv1NM4GLjggIb9MJffGkC8hrteyvuej5BcSTHftaXntRflh5Y3kYUrzPSsjQZBPfo1o1elrCfez5NjsCmuTFk5vYoGNzbq9kFu+1V29mrp2gcpKahpXgiBg4csUOHl8jhvAr4DwtV26k3KKDpFmw5psAHqbpfk3R6cWU3tWQ6HD1BKWA3XFeTrN0XWXwEVAmfsonAFk9UPLQ+/SxH6qqZhZZQ6L4jryxJNsXzFBFTIY9D9KYCN1IhOrpVDbafSq+evU9RCke+BLs430Ow+TtXqE0DeuxC7rlKVnwe6TwPTgU0gtAAJ0iJPJxkIvqcZvCKRMhrk3Yr4bHuHDQmhTyiEcZTocDwcI9gAXotBnSIsldEpU4vRXa3gNK4YgyiJ39pkPU07HAWI0L6/Rz7nWG6ZoXcTJh2XOPze4+cL3gQuccoloM5beIkGlFOOJEp4sZYvLk07Gb0qQWaS0Lldzqzo2qywJ2+7kPfBNy+PoHYG0350dOdp09jkJuaSJrWTypZaFDCeLITiAM/1////9f/r8AoA==
+x-tt-dt=
+Content-Type=application/json; charset=UTF-8
+x-vc-bdturing-sdk-version=3.7.2.cn
+x-ss-stub=99914B932BD37A50B983C5E7C90AE93B
+[case=17]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_17&aid=8662&device_id=0&ts=1700000017&_rticket=1700000017000
+User-Agent=com.phoenix.read/72232 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000017000
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000017
+x-ladon=ZVPxEQ==
+x-argus=EfFTZQ==
+x-gorgon=8404002040013e8bb56a29123faea7cbec61df8bed06dfd0e066
+x-helios=AAAAQNnz/WsgU0v1jKI/rymymnPlYrNwGsGtI+hn8Ro1cDwL
+x-medusa=EvFTZeYZDJ/GJo9ex9ubFUY+Mn0AAAABtzVABBDoA8KDODi/ep54FA9udLwuTXudBSudhPSR2v8h3SdruXZJ1/d+549vMfBgXMmNal++GjpCgkWUEB5ToDkPK8M9g4fDb7G9VxFk2LA5jcp4nM3KRafLN5PGm1oN3ZmlXzqY1EcilUkJUjFMdI6FiwCpkPhCIanzhGKTZRR/ZP5n0Rg4ymJMFVvnoZHhLq5yDG1pH/5mI2G1oYYR8np2MXhL8Q+HKLDEQpIIhIWzfjSguNbaxNayTl1pcxQXpyL9krwsJgHxj0489SeiD1uKzYEy0PhmCNSaftZNMK+K0DpbGVYTvBkH0p3nL/g7JrWoHKkUY+ZxtMynjJWMl1E2ibF2AwnmCr7oNs0h9kT5bdCoIyQAh4IVGNG+5RYSieDXWcpCJkttPW20haa/Sxnd0Dy9f6WmePzh0q2C0uKwoDCgW0eVE1+GQ2sOKdd9++41ZKx/ERvVZwBSDrgjKdCg27EI7y0xnm3kSCZeGvbLo4CaYSjGQrJBbKND+tcMsmB+5FDrxyPjpfiawXXMXo0C9OIZS6lPzwvdMSlP4QkPkL2VRLUbKf2d0Cl8E8CpFo8zJ2s9T9MV8RmeWOdSvZl3uRWo4Rrty90ia+TtnNWQN7Id6+OySTakNXfM3QpqrHs32sEQrgXuuuBQqcrki+J79yOwKom4HjhnEkNr8Mht9PhcPHMxwP2G4wMTD8cbmF/W864yOr6Pc0VOpK7LAgeDJAyeqqTtJtmkwWTE0suj+Ix0Ua8X5q+i5HKAno8n7N8b0XiVSXaLw9ztrBH2QPPOjGzyTh0NFMZb7BfzTbC9N41ty0n82nhHavWyHohPG6XJsXDEkKHipobMNe3pG+ZknNaENxDAJgfcbxP2DNMYS7sQqAJ0OgaiIXaiT90PNvacRkjLhVCRHfsH+w3lHLaJju8H4x8d/z////8//r8AwA==
+x-tt-dt=
+[case=18]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_18&aid=8662&device_id=0&ts=1700000018&_rticket=1700000018002
+User-Agent=com.phoenix.read/71332 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000018002
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000018
+x-ladon=ZVPxEg==
+x-argus=EvFTZQ==
+x-gorgon=840400404001ff0bde177d75164a6235404121f548c923b60046
+x-helios=AAAAYLQiURo/w4An+Ndw7PM8bP9XK6tvmgzI4re2VUm2i892
+x-medusa=EfFTZeUZDJ/FJo9exNubFUU+Mn0AAAABnjVAABAIAxONGPGVTge8gzdHXfDZETslSIa7wBx48fd9ysG75TzbFFrwgXaf5pZx+atxWxZrrrsbazg6Fa/RXcEC+f1eQlI8dnUMkIylPSI+luLQ3cvRiWCQgHMqstFRRUDjdMZyu2qXJTK1NJ/ZQwFLnb7UrABPqd4S35eOcGKfCxI48PFKFTYptOkzMN17h5G9i6F6MbnlhQXaiuNLZRQzd2XhVt+XWda0KPFj6ADWVMdLGOY/HVeQbPYibaThzSqOJSfRHhohZzbWtWuduE23LHtdV8AZ4XQzfi+scHjfJCKJcLPSmjTcQn00dBgKdYo5jwMeGmuuGs26wbTMgLnJvaNLjHGeSMXmkc74Be5Q47ojce4m0io4MJ8aszJ/9+KGd4fitkf4MjOJznskIn9CIanCOK3NQ18g55/Vh6pnS1+b03v2HGLXr5FdBBF1TthOC6baco0rSXZl7mapn7bO63AuhERoKyjMnACQTh3ggCEA6LK9J8gwWEsITUPDKBqwTpZ0KP+KXfW7IXm6/ytZX4AXLkoNZOsaTjlx9b2LM7F6S8GrOD4xSUmKkP6vPbNa+sjY1np7z2XNqgQq0YoHOvdYoV3Pv6TqlP/nkuOTyVVeMkvlaWIWDUwl358tI3sjywVVOYwqhAp2isXRwdrnap3epoeIUJvBzHMUAYyha567WRJXPgwmeT+BBQMq+QQaVirBY2wj5Zp0uuPDsxr+LQFJOwo1jprLnQ/ZXXqCXCMVAzrxPG9vX87GO9oL4uzrzXSdOOtmgHSPup/IGvoNHEPfWr0afDH/Evsqjyc7N7wc9eNq4NO5jR4qC/Dxq7luELiJeit8H1ZbvaRvNtExUg2AOklLDb6RZwzqvZz0ojvl+yayFtzpzBViHHLFMp98mHmEArcgu4iDpWdyTn680rgh2/gm/x////8f/r8A4A==
+x-tt-dt=
+Content-Type=application/json; charset=UTF-8
+x-vc-bdturing-sdk-version=3.7.2.cn
+x-ss-stub=99914B932BD37A50B983C5E7C90AE93B
+[case=19]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_19&aid=8662&device_id=0&ts=1700000019&_rticket=1700000019004
+User-Agent=com.phoenix.read/72232 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000019004
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000019
+x-ladon=ZVPxEw==
+x-argus=E/FTZQ==
+x-gorgon=840400604001d2f778043b28c1bfeb1eb50d1f8933a780cafb41
+x-helios=AAAAgCHfgIKLKi4/aUDy9otDzU42zSz0yGS0xHZEbK0/CMNc
+x-medusa=EPFTZeQZDJ/EJo9exdubFUQ+Mn0AAAABXRVABBAgAe+DOP8DLka1301H0FMajmCMS7YgVbg0iEeq0m7vF6mIjhY06cb+lR2StryLqp62GttVZFibgqjltylQ4qQaT0kd0XgTxNa3hlknsw7nx3b1vNDF67SSxCEYEK1PS2Egg9iZrCZMWJKuwM9lEduNNkMg7MQprI6Tk7Xa2M5/kEjkiST1Eb9g8y1e5Yxrgx3fA8+3wp2stZ1gcfh7EPfp8BZgnJ61n35A5yIv6f9GHeEtznS0WZKhemlCYIMszIhxD7wwgt71O28zbrsuViWy1lrb1wt3e/Fvc+9DEp5e0pOLtJVBphhs47DVCd96XVroyBNHmXMLFxvuYr2Jeg69aJJr7S6Ehoc7ozQpVRGbqL3ArkhwpJjeKoGbTC1ZJ+adaQZ6yCQOXlCWvBI//dn87V0r6dUo9oy0j4Yx+hjFuzdpIEuF4ILXiG5B3Sy33U3rjWdwTcs/Gfu/Hrs05eP5IDNAXoRZ+VWnS2FhKnXBjz7H9HnUfmNsTpxGighws8O283di9NUEWf9jkW7d+4K2pQYLd8FXjYemFxAT8J7xh8Wy6Exc/UQLMwtDeEExuEwGxFfHKbJGhib7tv9xQIEqjEIZwzdWZzN65CokI589JjC6bEBEMWKx+Ycq7Kvk3j8Jc66mcetz8oXIbY/oAzpF9lMaqxrSPsLDUznTh+7LxTlTuVElZaPlUnQru2TmPJO6AIfKI6P0ZmLG5lU/pPcK5yH8kMVP5w370wr6GaRfQxorECMGkS7aWo4jDApQE5qUsr4nBGzuA11iUFl9SH75NAarywS4ePswPDqpM9qQ0Gb7pZdEZE/Kde4VobDsqJAI10fR+9wAvvOvB4PRVyJLLUwoTnU6MPi40tewaH+YTXYLQVDkeeALQt8KHhCiENed25y7nr7ahSHNqQGPdM1zjK9p/////////r8AAA==
+x-tt-dt=
+[case=20]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_20&aid=8662&device_id=0&ts=1700000020&_rticket=1700000020000
+User-Agent=com.phoenix.read/71332 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000020000
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000020
+x-ladon=ZVPxFA==
+x-argus=FPFTZQ==
+x-gorgon=8404008040016672645c37d05082fc37255d1e8680c5acbf4df6
+x-helios=AAAAoE77t06y6acmrbEk7xHsMFIhGxG3aUEdQYuXMPAd0bXc
+x-medusa=F/FTZeMZDJ/DJo9ewtubFUM+Mn0AAAAB9BUABBBIAWoOGH9mBngDNjUP1xdvkNTRk7/FM55VbFI/mP+X/aYHB/Sm1a+e/iN9BBi5addRQKjdUgx9whk7wnnlKHkLXBdKWHIyw6INQiTQ177icZwzMYc3Pao6dUl8QJLCFtN+iJhR3tfCJaEv95IgRWh0d6OqQEhWxrDJClfB/KQa8wGasCvj/1EtBT4VfTzsMyacg0teHxmdfwj7QrZk9ytEZHkqmiwwdmFvwOuv0Lk7zqx/y2PzWnEp2oMc4XH3XowoP7G0lc9kW0OFicOJIxcTDLhiciCsUAVnjft7rRZCnOlf0E1wkA8MAiKS4JZe52wUMC+Ls3RiN2kQmYJJU1PZcCTOR8lejzzNDsb2ZmkPI9mR0GEMGztSlJl9qBFLp1nsSCl/+E0Nl/NFLxZWpZWsMqv1RjdtAhz7Xc0Wv2uiaPghn20U1xa3laNM15MutlKC3DaARSMs9jmfz/KcLHkhukopGWZrotfT14PdB02xqpNaJ3O9NgSiiI3616RNkgT7By+CYbWnytKwi6R9HEHBgGGzmUrnzwiA8P+gCPgqWYKjyJM0b0BzoGpp0ZJs0e4Dm9ab1bIOAkFll7OvcYKjyIIru3N3lhVxx+KmyE3UVT0wD23TAvJcuC2sXVdEmrMnrxjgOixNvAXDtIOQkbL1taRwjAkE7yRTrFT+HYelBU+Vk2FYUN224M+StGqrkHBD88/ykIVi+sSavMrKib3TtfLumDxVcmXn1kKUvfOpSFy1sYL1gQW5rHHiQtgPA3EH6en2nmHIODq3S8ONSvaFo8gUZteL5EeV7Iudvrko0uBRtNl1uqQgFypMQoV4MyVEvStr80mcDNB9JCuAmlcnAWNgDxtlrC3m+AtFirAcJkbId7tRK51JB1mCpxrGjQJMx6AJYNGyHlEs98vazWNQsXKN/9/////f/r8AIA==
+x-tt-dt=
+Content-Type=application/json; charset=UTF-8
+x-vc-bdturing-sdk-version=3.7.2.cn
+x-ss-stub=99914B932BD37A50B983C5E7C90AE93B
+[case=21]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_21&aid=8662&device_id=0&ts=1700000021&_rticket=1700000021000
+User-Agent=com.phoenix.read/72232 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000021000
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000021
+x-ladon=ZVPxFQ==
+x-argus=FfFTZQ==
+x-gorgon=840400a0400115cf4573d87fe40763d98a0d552a02b38480c32f
+x-helios=AAAAwOTryAWdUNoGMDD/3NV3IvB70mt+mtj+aOXgg8cEK5zK
+x-medusa=FvFTZeIZDJ/CJo9ew9ubFUI+Mn0AAAABUjVABABgA2yNOAYYxhR+tFVqB+HFG/gw4QfYXtX2HsZktfMiYZ2KOGc8fOc4hzC/aFjXSSveyyVzp5+FlWP3zbA80t23oSibmISmSi1WE+OwtfViweU2oWVGONBRqMKF50D5Y0S3B4SV0AbfSYvQDI+irVsWs3rT5RhhRewTuE4+rlG2w6FDwC7wardt7BOXHzSCheTkKqK1fKQjMhwyg55BQSqjPMX6PSmg1rctapuTFUvGyvOte9sX7OCUC6gtKDSJ9rhCxAYx2HN/9V9B7wLseqv65oaTgKZtpqdxKzj3YJhlwxbZbBnj3Ccuu3882ylRr95DGPg0J/LBd6zsWlEpxDAgWp+nJp19Vb67f4x8TKN5iyoxav8eB8vq+ciipHxyeoNtEAuPaTFWPPnir5E/h6YUCCGrKcofKeTpFjZQSsP3xwKXwBqY1Eg7q9zOm/DQD0zTABH6g8aCU1Yj+B7UcvkoWlSsBmHbptTHdDGEq4WVrnM+tOrX1E5t+PMpvusu/FEjHiz48FOCHDN9t+nGw06FWzH92s7NTIEtFiobxSfUSgBIZHpfli00QbY5zqKlFhZJT0UUoKIBWd5IapJJZ95+wosYSvHywg+964QWZ4LDa5UdXQvmQB8kCt+Q76Zo5fkmOfDMc6hb09B4n+aInPhfduPRcxgB3HskRrTyiIqxdZhd8h0f810CgRQSBG9mMo1Cd11rVuTiinv7uBpwniPxHvhQ4A2429hbJg43nECWS339Xe6ixpK3J0vx6+75U1wai+h3K1Jhp8n8UUcb6qb0nEcQHAgWlHz0VH+Nuh2IxiDEvfN+4igRIjz8PH5EAt96oGh/TsByV3hRv+oj1h9cDmtSV0Dt/WhTCGKJi+Am1OcLaXkIPuoyr2TcayorOkmr0Xz8+3+zcen4UrMyVD5u4RSu/7////+//r8AQA==
+x-tt-dt=
+[case=22]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_22&aid=8662&device_id=0&ts=1700000022&_rticket=1700000022002
+User-Agent=com.phoenix.read/71332 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000022002
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000022
+x-ladon=ZVPxFg==
+x-argus=FvFTZQ==
+x-gorgon=840400c04001dfb791eced45b5cc566faeb52fc44b2e043d24ff
+x-helios=AAAA4PbFhraazThYZGp9r2Htu9PooWlk3ndkv2qfLi0aLp3D
+x-medusa=FfFTZeEZDJ/BJo9ewNubFUE+Mn0AAAAB3DUAABCAAUKDOCQ5MpbvdNtfmPs0ap5/La3gqEn4U6nOfBVC1otsBlOO+26u8gcODz+7OHga+zQa4sOP+0OBwYYslzXbcygzZqtsPA5LOwH5TTgZ9blZS22nONYqbRaRPBMumDdDHMGOk+F0kCRZ5fjgFO+i9hqPhqVbXqEU9uHDbpDFheJ9R4dHCIWl2rFvJoVUvF5s4EtGAy6D91+bd66FBcNDoHIxZtXaWLImyx3TTtCULIuDsjQPA2/YRUnDYWCybX44qgWQHoNEUki43KIJFplBjdpCpQW77POpUG735SHa+7+8hRJtgau2weMYo3WgUghpSAAmjIlJu7AoEUsLJGlqatEsjz4btCqvTKfwgYMmPC3cyEBnW+xekCz1QavnmBs3JMF2ZTH9cwmXYr9NGplWKF4MUYEGpk1f6Q9ABMGSLWo9E65sin2VXGUHHkzZHrwNl5Ewp06khIUhMOtZJiIVmvvgg+GTZMJAGwj5YXNqmhPFkWxbosKRHkHcXVF/Pboa0f5438le9VLlffNfpHXiYJZWqEAKIQTbvX9gKhDOEm8HAA1wCq/Tj0ll2JTLmtUSZQ+LINs2WCJpF0NmGeKo8b/q2uGI/btqWFbitA8GAiLW2Wfz5TaRBkjaXzv9fWHmOmpPIP6Zny61xbhgMPe4E+dSQECXuFgoFS99Dvpjgw/fnnKunlvXTVgwgxP5Fm5cMhuMhnF/fyumHRMGUD30o1qJ5znr7JbGsaSFzsOFHQ7cUBD8twvD6rJ2bZNI7TH3dGnJx1R6WykEEgjMOT2o+50alaaGPwIVLLfNdueSFhf1mOUS2hvwUgIfz8K6IKQdpoM+DxasHBw+QAXKWvfO3mFpNTi7mroP1Po9XiY7a1kOpqoIuatqiCRmhpY6yBOJtml0Fp98/sN/R9AAoCH/n////5/+vwBg
+x-tt-dt=
+Content-Type=application/json; charset=UTF-8
+x-vc-bdturing-sdk-version=3.7.2.cn
+x-ss-stub=99914B932BD37A50B983C5E7C90AE93B
+[case=23]
+url=https://api5-normal-sinfonlineb.fqnovel.com/test?query=%E4%B8%AD%E6%96%87%20a%2Bb%20~*_23&aid=8662&device_id=0&ts=1700000023&_rticket=1700000023001
+User-Agent=com.phoenix.read/72232 (Linux; U; Android 12; zh_CN; ProtocolTest; Build/test-build)
+Accept=application/json; charset=utf-8,application/x-protobuf
+x-ss-req-ticket=1700000023001
+x-tt-request-tag=t=0;n=0
+sdk-version=2
+passport-sdk-version=6031190
+x-xs-from-web=0
+x-khronos=1700000023
+x-ladon=ZVPxFw==
+x-argus=F/FTZQ==
+x-gorgon=840400e040017a6219856f27972a410fa451607fed55e0203146
+x-helios=AAAAANMisqROarT6QBgnTFdAALfIMLpgJZ6NUTjqlT9/cKKP
+x-medusa=FPFTZeAZDJ/AJo9ewdubFUA+Mn0AAAABtxVABACgARqHOEsQ7OGBV/e5ve0ECXe+T4UcImsHOYHUP7LVpnzYdMJVbv7nq3otkzkU8jnRZaKQHhJWj3xHFxFigQiQ3VxRA7yd38Do+RFgTM5FhkgSySS8qDRvLTTrJZ10w6Uce1cYi5t7vmTqKdHR5lolYVpOQogAtwQ4nQ5vix2s39EUDndkxZAJqIX3k/RcR3++IXp1wzGrnOHZFvxbKX0+3yELgaTgoH65k4MVlIkPZf/6ldUoP7oSyVJZzKKg5uh/SKIfkoxf7JJGN0+PWyCjkBz31AY7KmIQ6GY4SLeoe7ZGk3TWGf3KgaixxfSNdk1ByUDNIQPx7FDkzNTy/Sqyckbm5uLKhwES/aIs1i8CrhxLEOAOggAN6i0vUhqb7Q1+WAXOZfw264/Ummt4t5GUbyjpaEbdSWB7FB7+E3PAFGc47apMIi4QEB7HTNCEKxLdZPH4kXD/bxJHRUS3K7PdO0qlwgKMtp7vzgIZ9NNNEVCqCB2xGqQaSIMxXv8yG30BGcjDzKQIEhsQeRc4/kQh1nvOKnpUFfpjp8xIvJhR7JBgLiVTu+6EP/+H2QqN9WYkKsNjm2XrOiQ+m7UNDz5CusqC+QAz1BW249dib9k6PF3oIho1xRdK0fVmgjVntbO0JRyYr33EiYVSZsb80ufGJc5aqfyLVTTLvslMAUzxgh8SxgFa1Zx5exTCLrgOdGx7t/rFINEDM/OT7gNSijomGX9fobAuwpHwivzpGqYthuymI9vBNOmn7MdqHZZ04c0W1L739cDlSgiNV1lxB1GlNSXCs8OFKdnoWCjbP9tV4SRRo6fx9ndNuxrHbl+nIjOVhVl9W/JQChD9CR9gheTb5TlURlN+sWTVHq1cjqUncmcrwG/kR9KA4s7nRUwfHo8riZOUM9X3koR45COSwpxj+5u+/3////9//r8AgA==
+x-tt-dt=

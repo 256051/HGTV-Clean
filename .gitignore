@@ -1,0 +1,14 @@
+.gradle/
+local.properties
+**/build/
+artifacts/
+*.keystore
+*.jks
+__pycache__/
+verification/
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
