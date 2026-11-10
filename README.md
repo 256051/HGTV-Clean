@@ -21,6 +21,10 @@
 
 ## 安装与使用
 
+[下载 0.3.0 Release 安装包](https://github.com/256051/HGTV-Clean/releases/download/v0.3.0/HGTV-Clean-0.3.0-release.apk) · [查看发布说明](https://github.com/256051/HGTV-Clean/releases/tag/v0.3.0)
+
+Release 包与之前的调试版签名不同，不能直接覆盖安装；卸载调试版会删除其本地登录信息、播放记录和收藏。
+
 本地构建的安装包：`artifacts/HGTV-Clean-0.3.0-debug.apk`（构建产物不包含在源码仓库中）。
 
 打开应用后，可通过推荐、分类或搜索找到作品，进入详情页选择分集播放。首次播放会自动初始化本机播放连接。
@@ -113,4 +117,4 @@ python scripts/check_android_protocol.py --adb <adb.exe路径> --serial <测试�
 
 为保留现有会话，本轮未重新注册设备或提交新的扫码确认。
 
-当前提供调试签名测试包；真实电视与手机硬件、长期会话续期及全部作品的播放兼容性尚未完成验证。
+当前提供 Release 测试包和本地调试包；真实电视与手机硬件、长期会话续期及全部作品的播放兼容性尚未完成验证。
